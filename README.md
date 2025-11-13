@@ -22,7 +22,7 @@ Tableau Desktop: Ensure you have Tableau Desktop installed on your machine to op
 How to Use
 Clone this repository to your local machine:
 
-git clone [https://github.com/yourusername/ipl-analysis.git](https://github.com/astronkirax/Ipl_analysis_tableau_dashboard)
+git clone (https://github.com/astronkirax/Ipl_analysis_tableau_dashboard)
 Open the Ipl_analysis.twb file in Tableau Desktop.
 
 Explore the dashboard and use the interactive filters to customize your analysis.
